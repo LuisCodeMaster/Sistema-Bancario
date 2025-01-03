@@ -1,0 +1,20 @@
+[
+    {
+        "numero": "01",
+        "titular": "Luis",
+        "saldo": 100.0,
+        "extrato": []
+    },
+    {
+        "numero": "02",
+        "titular": "Maria",
+        "saldo": 0,
+        "extrato": []
+    },
+    {
+        "numero": "03",
+        "titular": "Alex",
+        "saldo": 0,
+        "extrato": []
+    }
+]
